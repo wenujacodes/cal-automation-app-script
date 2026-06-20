@@ -77,4 +77,4 @@ If NSBM IT permissions change and Graph API access becomes available for student
 
 ---
 
-[← Back to README](README.md) · [📋 Setup Guide](SETUP.md) · [⚙️ Technical Docs](TECHNICAL.md)
+[← Back to README](README.md) · [📋 Setup Guide](SETUP.md) · [⚙️ Technical Docs](CODE_OF_CONDUCT.md)
